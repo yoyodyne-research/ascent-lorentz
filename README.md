@@ -7,3 +7,5 @@ Lorentz example from Ascent, for Bela.
     git clone git@github.com:yoyodyne-research/Ascent
 
 then open and run `ascent-lorentz` in the Bela IDE.
+
+This won't make any noises; it'll finish and drop a CSV into the project directory.
