@@ -5,3 +5,5 @@ Lorentz example from Ascent, for Bela.
     git clone git@github.com:yoyodyne-research/ascent-lorentz
     cd
     git clone git@github.com:yoyodyne-research/Ascent
+
+then open and run `ascent-lorentz` in the Bela IDE.
