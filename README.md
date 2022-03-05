@@ -8,7 +8,7 @@ Lorentz example from Ascent, for Bela.
 
 then open and run `ascent-lorentz` in the Bela IDE.
 
-This won't make any noises; it'll finish and drop a CSV into the project directory.
+This won't make any noises; a stub example will call and use the library.
 
 
 * https://github.com/AnyarInc/Ascent
