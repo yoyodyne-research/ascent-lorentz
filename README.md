@@ -8,7 +8,8 @@ Lorentz example from Ascent, for Bela.
 
 then open and run `ascent-lorentz` in the Bela IDE.
 
-This won't make any noises; a stub example will call and use the library.
+This won't make any noises; a stub example will call and use the library,
+then write a CSV recording a Lorentz system applied to an RK4 integrator.
 
 
 * https://github.com/AnyarInc/Ascent
